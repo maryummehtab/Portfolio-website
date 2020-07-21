@@ -1,4 +1,49 @@
+.banner-container > .row > div {
+    height: 500px;
+    display: flex;
+}
 .navbar-nav
 {
     margin-left: auto; 
+}
+.small {
+    font-size: 0.8em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 15px 70px;
+}
+
+.bg-red {
+    background: #e73c36; 
+}
+
+.bg-grey {
+    background: #333;
+}
+
+.center-v {
+    text-align: center;
+    align-self: center;
+    width: 100%;
+}
+
+.center-v li {
+    list-style: none;
+}
+
+.color-dark {
+    color: #111;
+}
+
+.color-light {
+    color: #FFF;
+}
+
+.thikkk {
+    font-weight: bolder;
 }
