@@ -50,3 +50,17 @@
 .padded-top {
     margin-top: 50px;
 }
+footer .container-fluid {
+    background-color: #111;
+    color: white;
+}
+.vl {
+    
+    border-left: 1px solid white;
+    height: 50px;
+  }
+.size{
+    float: right;
+    margin-right: 50px ;
+    font-size:20px;
+}
