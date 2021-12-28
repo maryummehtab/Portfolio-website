@@ -1,1 +1,1 @@
-its a simple portfolio about my education.
+**Portfolio.**
